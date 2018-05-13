@@ -1,11 +1,15 @@
 {
   "name": "anet-admin",
   "version": "1.0.0",
-  "description": "",
+  "description": "anet-admin-tools",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo3349/anet-admin.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
